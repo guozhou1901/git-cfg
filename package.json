@@ -1,7 +1,6 @@
 {
-  "name": "imooc-admin",
+  "name": "joy-2024",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -47,5 +46,18 @@
     "commitizen": {
       "path": "node_modules/cz-customizable"
     }
-  }
+  },
+  "description": "## Project setup ``` yarn install ```",
+  "main": ".cz-config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guozhou1901/git-cfg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guozhou1901/git-cfg/issues"
+  },
+  "homepage": "https://github.com/guozhou1901/git-cfg#readme"
 }
